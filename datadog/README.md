@@ -107,11 +107,11 @@ logging into your Datadog account at [http://datadoghq.com](http://datadoghq.com
 
 ### Example trace in Datadog
 
-![](trace.png)
+![](images/trace.png)
 
 ### Example trace with errors
 
-![](trace-with-error.png)
+![](images/trace-with-error.png)
 
 ## Stopping the demo
 To cleanly remove all containers and networks, please use the following command:
