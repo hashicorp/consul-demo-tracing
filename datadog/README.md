@@ -49,7 +49,7 @@ can be found at the following locations:
 * Central Config to set service protocol [central_config/](central_config/)
 * Service Config for registering services and configuring upstreams [service_config/](service_config/)
 
-![](images/consul-ui.png)
+![](images/consul_ui.png)
 
 ## Interacting with the application
 The main entry point for the system is accessible at [http://localhost:9090](http://localhost:9090), you can either 
