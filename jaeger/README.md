@@ -45,7 +45,7 @@ can be found at the following locations:
 * Central Config to set service protocol [central_config/](central_config/)
 * Service Config for registering services and configuring upstreams [service_config/](service_config/)
 
-![](images/consul-ui.png)
+![](images/consul_ui.png)
 
 ## Interacting with the application
 The main entry point for the system is accessible at [http://localhost:9090](http://localhost:9090), you can either 
@@ -102,11 +102,11 @@ is collected by Jaeger. The Jaeger UI can be accessed at the following URL: [htt
 
 ### Example trace in Jaeger
 
-![](jaeger.png)
+![](images/jaeger.png)
 
 ### Example trace with errors
 
-![](jaeger-with-error.png)
+![](images/jaeger-with-error.png)
 
 ## Stopping the demo
 To cleanly remove all containers and networks, please use the following command:
